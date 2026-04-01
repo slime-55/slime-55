@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**slime-55/slime-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 College Student | Aspiring Game Planner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* I am a first-year student at INIAD (Information Networking for Innovation and Design).
+* I worked on planning and managing an AR stamp rally project at a university festival.
+* I enjoy designing experiences that make users feel excited and engaged.
+
+---
+
+## 🛠 Skills
+
+* HTML / CSS / JavaScript
+* Python
+* Git / GitHub
+
+---
+
+## 🎯 Interests
+
+* Game Planning
+* UX Design
+* Interactive Content
+* English
+
+---
+
+## 📂 Projects
+
+---
+
+## ✨ Message
+
+> I aim to become a planner who can design engaging and memorable user experiences.
