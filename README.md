@@ -6,9 +6,8 @@
 
 ## 🚀 About Me
 
-* I am a first-year student at INIAD (Information Networking for Innovation and Design).
-* I worked on planning and managing an AR stamp rally project at a university festival.
-* I enjoy designing experiences that make users feel excited and engaged.
+* I am a second-year university student in Tokyo
+* I am majoring in User Experience and Data Science
 
 ---
 
