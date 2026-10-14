@@ -1,37 +1,46 @@
 # 👋 Hi there
 
-## 🎓 College Student | Aspiring Game Planner
 
 ---
 
 ## 🚀 About Me
-
-* I am a second-year university student in Tokyo
-* I am majoring in User Experience and Data Science
+- I'm a second-year university student from Tokyo
+- I'm majoring User Experience (UX),Data Science and Computer Science, with a particular interest in combining design and technology to create meaningful digital experiences.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-* HTML / CSS / JavaScript
-* Python
-* Git / GitHub
+### Languages
 
+- HTML / CSS / JavaScript
+- Python
+
+
+### Design & Tools
+
+- Figma
+- Git / GitHub
+- AI-assisted Development (Codex)
+
+
+## ✒️Currently learning 
+- TypeScript and React
 ---
 
 ## 🎯 Interests
 
-* Game Planning
-* UX Design
-* Interactive Content
-* English
+- UI/UX Design & User Research
+- Frontend Development
+- Interactive Experiences
+- AI-assisted Development
+
+- English
+
+
 
 ---
 
-## 📂 Projects
+## ✨ My Goal
 
----
-
-## ✨ Message
-
-> I aim to become a planner who can design engaging and memorable user experiences.
+- I aspire to bridge the gap between design and technology, creating intuitive, engaging, and memorable user experiences.
